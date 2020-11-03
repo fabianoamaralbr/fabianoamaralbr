@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
+![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
 <!--
 **amaralbr/amaralbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
