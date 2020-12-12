@@ -1,8 +1,41 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
 ![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
+
+## Who, am I?
+* :computer: Data Scientist <br />
+* :chart_with_upwards_trend: Data Analyst <br/>
+* :bar_chart: Business Specialist <br/>
+
+## Skills
+* 🐍 Python
+* 🗄 SQL
+* 🧮 Power BI.
+* 📈 Business.
+* :milky_way: Lean & Scrum
+* 🔮 Machine Learning
+* 📊 Data Visualization
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin]( https://www.linkedin.com/in/fabianoamaralbr/)
+*  [Instagram]( https://www.instagram.com/fabianoamaralbr/)
+*  [Twitter]( https://www.twitter.com/fabianoamaralbr/)
+*  [Site/Portfólio](https://wwww.fabianoamaral.com)
+
+## **My projects**
+
+* [EDA Brazilian E-commerce](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
+
 <!--
 **amaralbr/amaralbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **My projects**
+
+* [Churn Model](https://github.com/scudilio/Churn_model)
+* [Data Visualization](https://github.com/scudilio/Visualizacao_de_dados)
+* [WebScrapin](https://github.com/scudilio/webscraping_wordcloud)
+* [TextMining](https://github.com/scudilio/text_mining)
+
 
 Here are some ideas to get you started:
 
@@ -15,3 +48,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
