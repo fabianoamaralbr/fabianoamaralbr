@@ -18,7 +18,7 @@
 
 ## Find me around the world :earth_americas:
 
-*  [Linkedin]( https://www.linkedin.com/in/fabianoamaralbr/)
+*  [Linked-in]( https://www.linkedin.com/in/fabianoamaralbr/)
 *  [Instagram]( https://www.instagram.com/fabianoamaralbr/)
 *  [Twitter]( https://www.twitter.com/fabianoamaralbr/)
 *  [Site/Portfólio](https://www.fabianoamaral.com)
