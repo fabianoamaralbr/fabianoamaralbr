@@ -21,7 +21,7 @@
 *  [Linkedin]( https://www.linkedin.com/in/fabianoamaralbr/)
 *  [Instagram]( https://www.instagram.com/fabianoamaralbr/)
 *  [Twitter]( https://www.twitter.com/fabianoamaralbr/)
-*  [Site/Portfólio](https://wwww.fabianoamaral.com)
+*  [Site/Portfólio](https://www.fabianoamaral.com)
 
 ## **My projects**
 
