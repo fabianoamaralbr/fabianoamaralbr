@@ -10,8 +10,8 @@
 ## Skills
 * 🐍 Python
 * 🗄 SQL
-* 🧮 Power BI.
-* 📈 Business.
+* 🧮 Power BI
+* 📈 Business
 * :milky_way: Lean & Scrum
 * 🔮 Machine Learning
 * 📊 Data Visualization
