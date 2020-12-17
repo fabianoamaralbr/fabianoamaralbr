@@ -5,7 +5,7 @@
 ## Who, am I?
 * :computer: Data Scientist <br />
 * :chart_with_upwards_trend: Data Analyst <br/>
-* :bar_chart: Specialist in Business - UGF/Estácio <br/>
+* :bar_chart: Specialist in Business - UGF/UNESA <br/>
 
 ## Skills
 * 🐍 Python
