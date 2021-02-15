@@ -5,7 +5,9 @@
 ## Who, am I?
 * :computer: Data Scientist <br />
 * :chart_with_upwards_trend: Data Analyst <br/>
-* :bar_chart: Specialist in Business - UGF/UNESA <br/>
+* :bar_chart: Business Specialist - UNESA <br/>
+* :pager: System Analysis and Development Technician - UNOPAR <br/>
+* :iphone: Mastering in Intelligent Systems - CEFET-MG <br/>
 
 ## Skills
 * 🐍 Python
