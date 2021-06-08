@@ -4,10 +4,10 @@
 
 ## Who, am I?
 * :computer: Data Scientist <br />
-* :chart_with_upwards_trend: Data Analyst <br/>
-* :bar_chart: Business Specialist - UNESA <br/>
-* :pager: System Analysis and Development Technician - UNOPAR <br/>
-* :iphone: Mastering in Intelligent Systems - CEFET-MG <br/>
+* :chart_with_upwards_trend: Data Analyst in QDOIS - Data Intelligence <br/>
+* :bar_chart: Business Specialist degree - UNESA <br/>
+* :pager: System Analysis and Development Technician degree - UNOPAR <br/>
+* :iphone: Master student in Mathematical and Computational Modeling - CEFET-MG <br/>
 
 ## Skills
 * 🐍 Python
