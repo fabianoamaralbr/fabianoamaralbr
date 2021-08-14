@@ -27,8 +27,8 @@
 
 ## **My projects**
 
-* [EDA Brazilian E-commerce](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
-* [Financial Quote Report](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
+* [EDA Brazilian E-commerce | Data Analisys in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
+* [Financial Quote Report | Data Analisys in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
 
 <!--
 **amaralbr/amaralbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
