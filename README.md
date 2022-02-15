@@ -4,19 +4,21 @@
 
 ## Who, am I?
 * :computer: Data Scientist <br />
-* :chart_with_upwards_trend: Data Analyst in QDOIS - Data Intelligence <br/>
-* :bar_chart: Business Specialist degree - UNESA <br/>
-* :pager: System Analysis and Development Technician degree - UNOPAR <br/>
-* :iphone: Master student in Mathematical and Computational Modeling - CEFET-MG <br/>
+* :chart_with_upwards_trend: Power BI Consultant @ QDOIS - Data Intelligence <br/>
+* :bar_chart: Business Specialist Degree @ UNESA <br/>
+* :pager: Bachelor's Degree in Systems Analysis and Development @ UNOPAR <br/>
 
 ## Skills
-* 🐍 Python
-* 🗄 SQL
-* 🧮 Power BI
-* 📈 Business
-* :milky_way: Lean & Scrum
-* 🔮 Machine Learning
+* 🔮 Machine Learning (Classification, Regression, and Clustering)
+* :straight_ruler: Data Analysis
 * 📊 Data Visualization
+* :milky_way: Agile Scrum
+* 🧮 Microsoft Power BI
+* 📊 Azure Machine Learning Studio
+* :page_with_curl: Azure DevOps
+* 🗄 SQL Server
+* :loop: Google Colab/Jupyter Notebook
+* 🐍 Python
 
 ## Find me around the world :earth_americas:
 
