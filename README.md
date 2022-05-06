@@ -3,16 +3,16 @@
 ![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
 
 ## Who, am I?
-* :computer: Data Scientist <br />
+* :computer: Data Analyst | Data Scientist <br />
 * :chart_with_upwards_trend: Power BI Consultant @ QDOIS - Data Intelligence <br/>
 * :bar_chart: Business Specialist Degree @ UNESA <br/>
-* :pager: Bachelor's Degree in Systems Analysis and Development @ UNOPAR <br/>
+* :pager: Systems Analyst and Developer Degree @ UNOPAR <br/>
 
 ## Skills
 * 🔮 Machine Learning (Classification, Regression, and Clustering)
 * :straight_ruler: Data Analysis
 * 📊 Data Visualization
-* :milky_way: Agile Scrum
+* :milky_way: Agile & Scrum
 * 🧮 Microsoft Power BI
 * 📊 Azure Machine Learning Studio
 * :page_with_curl: Azure DevOps
@@ -29,8 +29,8 @@
 
 ## **My projects**
 
-* [EDA Brazilian E-commerce | Data Analysis in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
-* [Financial Quote Report | Data Analysis in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
+* [EDA Brazilian E-commerce | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
+* [Financial Quote Report | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
 
 <!--
 **amaralbr/amaralbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
