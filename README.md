@@ -3,22 +3,21 @@
 ![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
 
 ## Who, am I?
-* :computer: Data Analyst | Data Scientist <br />
-* :chart_with_upwards_trend: Power BI Consultant @ QDOIS - Data Intelligence <br/>
+* :computer: Data Scientist @ Fabiano Amaral - Data Intelligence Developer<br />
+* :chart_with_upwards_trend: Associate Business Intelligence @ Programmer's - Beyond IT <br/>
 * :bar_chart: Business Specialist Degree @ UNESA <br/>
 * :pager: Systems Analyst and Developer Degree @ UNOPAR <br/>
 
 ## Skills
-* 🔮 Machine Learning (Classification, Regression, and Clustering)
-* :straight_ruler: Data Analysis
+* 🔮 Predictive Analytics
+* :straight_ruler: Data Mining
 * 📊 Data Visualization
 * :milky_way: Agile & Scrum
 * 🧮 Microsoft Power BI
-* 📊 Azure Machine Learning Studio
-* :page_with_curl: Azure DevOps
-* 🗄 SQL Server
-* :loop: Google Colab/Jupyter Notebook
+* 📊 Microsoft Azure
+* :page_with_curl: DevOps
 * 🐍 Python
+* 🗄 SQL
 
 ## Find me around the world :earth_americas:
 
