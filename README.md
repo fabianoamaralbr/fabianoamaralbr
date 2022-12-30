@@ -3,10 +3,10 @@
 ![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
 
 ## Who, am I?
-* :computer: Data Scientist @ Fabiano Amaral - Data Intelligence Developer<br />
-* :chart_with_upwards_trend: Associate Business Intelligence @ Programmer's - Beyond IT <br/>
-* :bar_chart: Business Specialist Degree @ UNESA <br/>
-* :pager: Systems Analyst and Developer Degree @ UNOPAR <br/>
+* :computer: Data Scientist<br />
+* :chart_with_upwards_trend: Associate Business Intelligence<br/>
+* :bar_chart: Business Specialist Degree <br/>
+* :pager: Systems Analyst and Developer Degree<br/>
 
 ## Skills
 * 🔮 Predictive Analytics
