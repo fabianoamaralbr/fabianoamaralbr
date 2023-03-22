@@ -1,10 +1,10 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
-![](https://github.com/amaralbr/amaralbr/blob/main/1.23.00.png?raw=true)
+![](https://github.com/amaralbr/amaralbr/blob/0b47516ff85eee37467ead8cb221015008ca2137/capa%20github.png)
 
 ## Who, am I?
-* :computer: Data Scientist<br />
-* :chart_with_upwards_trend: Associate Business Intelligence<br/>
+* :octocat: Data Scientist<br />
+* :computer: AI Expert Degree<br/>
 * :bar_chart: Business Specialist Degree <br/>
 * :pager: Systems Analyst and Developer Degree<br/>
 
