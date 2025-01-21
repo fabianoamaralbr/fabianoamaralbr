@@ -3,8 +3,8 @@
 ![](https://github.com/amaralbr/amaralbr/blob/0b47516ff85eee37467ead8cb221015008ca2137/capa%20github.png)
 
 ## Who, am I?
-* :octocat: Data Scientist<br />
-* :computer: AI Expert Degree<br/>
+* :octocat: Data Analyst | Data Scientist<br />
+* :computer: Data Analyst Specialist Degree<br/>
 * :bar_chart: Business Specialist Degree <br/>
 * :pager: Systems Analyst and Developer Degree<br/>
 
