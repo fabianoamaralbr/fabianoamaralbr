@@ -3,19 +3,21 @@
 ![](https://github.com/amaralbr/amaralbr/blob/0b47516ff85eee37467ead8cb221015008ca2137/capa%20github.png)
 
 ## Who, am I?
-* :octocat: Data Scientist | Teacher<br />
+* :octocat: Data Scientist | BI Developer | Teacher<br />
+* :paperclip: AI Specialist Degree<br/>
 * :computer: Data Analyst Specialist Degree<br/>
-* :bar_chart: Business Specialist Degree <br/>
 * :pager: Systems Analyst and Developer Degree<br/>
+* :bar_chart: Business Specialist Degree <br/>
 
 ## Skills
 * 🧮 Machine Learning
-* 🔮 Predictive Analytics
-* :straight_ruler: Data Mining
-* 📊 Data Visualization
-* :milky_way: Agile & Scrum
-* :page_with_curl: DevOps
+* 🔮 Probability
+* 📊 Statistic
+* :straight_ruler: Performance metrics
 * 🐍 Python
+* :milky_way: Scikit-learn
+* :page_with_curl: Tensorflow
+* :boom: Pyspark
 * 🗄 SQL
 
 ## Find me around the world :earth_americas:
@@ -23,7 +25,6 @@
 *  [Linked-in]( https://www.linkedin.com/in/fabianoamaralbr/)
 *  [Instagram]( https://www.instagram.com/fabianoamaralbr/)
 *  [X (twitter)]( https://www.x.com/fabianoamaralbr/)
-*  [Portfólio](https://github.com/fabianoamaralbr/)
 
 ## **My projects**
 
