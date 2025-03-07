@@ -3,7 +3,7 @@
 ![](https://github.com/amaralbr/amaralbr/blob/0b47516ff85eee37467ead8cb221015008ca2137/capa%20github.png)
 
 ## Who, am I?
-* :octocat: Data Scientist | BI Developer <br />
+* :octocat: Data Scientist<br />
 * :paperclip: Artificial Intelligence Specialist Degree<br/>
 * :computer: Data Analysis with BI and Big Data Specialist Degree<br/>
 * :pager: Systems Analysis and Development Degree<br/>
