@@ -7,7 +7,9 @@
 * :paperclip: AI Specialist Degree<br/>
 * :computer: Data Analyst Specialist Degree<br/>
 * :pager: Systems Analyst and Developer Degree<br/>
+<!--
 * :bar_chart: Business Specialist Degree <br/>
+-->
 
 ## Skills
 * 🧮 Machine Learning
