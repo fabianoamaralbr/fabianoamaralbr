@@ -4,9 +4,9 @@
 
 ## Who, am I?
 * :octocat: Data Scientist | BI Developer | Teacher<br />
-* :paperclip: AI Specialist Degree<br/>
-* :computer: Data Analyst Specialist Degree<br/>
-* :pager: Systems Analyst and Developer Degree<br/>
+* :paperclip: Artificial Intelligence Specialist Degree<br/>
+* :computer: Data Analysis with BI and Big Data Specialist Degree<br/>
+* :pager: Systems Analysis and Development Degree<br/>
 <!--
 * :bar_chart: Business Specialist Degree <br/>
 -->
