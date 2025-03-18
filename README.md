@@ -1,6 +1,6 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
-![](https://github.com/amaralbr/amaralbr/blob/0b47516ff85eee37467ead8cb221015008ca2137/capa%20github.png)
+![](1.23.00.png)
 
 ## Who, am I?
 * :octocat: Data Scientist<br />
