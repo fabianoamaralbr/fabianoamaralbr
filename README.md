@@ -31,8 +31,7 @@
 ## **My projects**
 
 * [Machine Learning Model for Churn](https://github.com/fabianoamaralbr/churn_model_ml)
-* [Decision Tree Algorithm Analysis](https://github.com/fabianoamaralbr/decision_tree_algorithm)
-* [Linear Regression Algorithm Analysis](https://github.com/fabianoamaralbr/linear_regression_algorithm)
+* [Algorithm Analysis](https://github.com/fabianoamaralbr/algorithm_analysis)
 * [Python's Learning Exercises](https://github.com/fabianoamaralbr/AprendizadoPython)
 * [EDA Brazilian E-commerce | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
 * [Financial Quote Report | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
