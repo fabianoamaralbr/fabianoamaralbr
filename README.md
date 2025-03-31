@@ -30,9 +30,9 @@
 
 ## **My projects**
 
-* [Machine Learning Model for Churn](https://github.com/fabianoamaralbr/churn_model_ml)
-* [Algorithm Analysis](https://github.com/fabianoamaralbr/algorithm_analysis)
-* [Python's Learning Exercises](https://github.com/fabianoamaralbr/AprendizadoPython)
+* [Algorithm Analysis (2025)](https://github.com/fabianoamaralbr/algorithm_analysis)
+* [Machine Learning Model for Churn (2024)](https://github.com/fabianoamaralbr/churn_model_ml)
+* [Python's Learning Exercises (2021)](https://github.com/fabianoamaralbr/AprendizadoPython)
 * [EDA Brazilian E-commerce | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiZWEwMDAyMDEtMGUyYy00Y2I1LTlhMzYtNmI1OTNhNjA2MGI5IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9)
 * [Financial Quote Report | Data Analysis in Power BI (2020)](https://app.powerbi.com/view?r=eyJrIjoiOTgwNzQzY2QtNjBiOC00NTY1LTg3MTgtNDhiYzIxNjI5NjQ2IiwidCI6IjcxZDU5YjAxLTIyY2EtNDYxYS1hYzRmLWIxMDNjMDY4NTQzYSJ9&pageName=ReportSection)
 
