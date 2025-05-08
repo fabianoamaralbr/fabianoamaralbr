@@ -3,7 +3,7 @@
 ![](octacat_fabianoamaral.png)
 
 ## Who, am I?
-* :octocat: Data Scientist<br />
+* :octocat: Data Scientist | Data Analyst<br />
 * :paperclip: Artificial Intelligence Expert's Degree<br/>
 * :computer: Data Analysis with BI and Big Data Expert's Degree<br/>
 * :pager: Systems Analysis and Development Bachelor's Degree<br/>
