@@ -1,6 +1,6 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
-![](octacat_fabianoamaral.png)
+![](octocat_fabianoamaral.png)
 
 ## Who, am I?
 * :octocat: Data Analyst<br />
