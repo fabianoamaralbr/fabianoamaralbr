@@ -1,9 +1,7 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
-
-
-
+<!--
 ![](octocat_fabianoamaral.png)
-
+-->
 ## Who, am I?
 * :octocat: Analytics Engineer | Senior Data Analyst<br />
 * :computer: Data Analysis with BI and Big Data Expert's Degree<br/>
