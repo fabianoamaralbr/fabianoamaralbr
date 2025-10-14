@@ -1,11 +1,14 @@
 # Hi, I'm Fabiano :wave: :slightly_smiling_face:
 
+
+
 ![](octocat_fabianoamaral.png)
 
 ## Who, am I?
-* :octocat: Data Analyst<br />
-* :paperclip: Artificial Intelligence Expert's Degree<br/>
+* :octocat: Analytics Engineer | Senior Data Analyst<br />
 * :computer: Data Analysis with BI and Big Data Expert's Degree<br/>
+* :paperclip: Artificial Intelligence Expert's Degree<br/>
+* :technologist: Software Engineering Expert's Degree<br/>
 * :pager: Systems Analysis and Development Bachelor's Degree<br/>
 <!--
 * :bar_chart: Business Specialist Degree <br/>
