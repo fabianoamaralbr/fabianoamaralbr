@@ -5,7 +5,7 @@
 ![](octocat_fabianoamaral.png)
 -->
 ## Who, am I?
-* :octocat: Senior Data Analyst | Analytics Engineer<br/>
+* :octocat: Data Engineer<br/>
 * :computer: Data Analysis with BI and Big Data Expert's Degree<br/>
 * :paperclip: Artificial Intelligence Expert's Degree<br/>
 * :technologist: Software Engineering Expert's Degree<br/>
@@ -27,12 +27,16 @@
 
 ## Find me around the world :earth_americas:
 
+*  [Site]( https://www.fabianoamaralbr.com/)
 *  [Linked-in]( https://www.linkedin.com/in/fabianoamaralbr/)
 *  [Instagram]( https://www.instagram.com/fabianoamaralbr/)
 *  [X (twitter)]( https://www.x.com/fabianoamaralbr/)
 
 ## **My projects**
 
+* [End-to-End MLOps (2026)](https://github.com/fabianoamaralbr/mlops)
+* [End-to-End Data Platform (2026)](https://github.com/fabianoamaralbr/data-end-to-end)
+* [Brazil Fixed Income Macro Overview (2026)](https://github.com/fabianoamaralbr/painel-macro-brasil)
 * [Algorithm Analysis (2025)](https://github.com/fabianoamaralbr/algorithm_analysis)
 * [Machine Learning Model for Churn (2024)](https://github.com/fabianoamaralbr/churn_model_ml)
 * [Python's Learning Exercises (2021)](https://github.com/fabianoamaralbr/AprendizadoPython)
