@@ -2,16 +2,15 @@
 ![](octocat_fabianoamaral.png)
 
 ## About me
+
 * :octocat: Data Engineer<br/>
 * :computer: Data Analysis with BI and Big Data Expert's Degree<br/>
 * :paperclip: Artificial Intelligence Expert's Degree<br/>
 * :technologist: Software Engineering Expert's Degree<br/>
 * :pager: Systems Analysis and Development Bachelor's Degree<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabianoamaralbr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianoamaralbr&layout=compact&theme=radical)
-
 ## Skills
+
 * 🧮 Machine Learning
 * 🔮 Probability
 * 📊 Statistic
