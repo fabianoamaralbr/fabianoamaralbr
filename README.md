@@ -5,6 +5,7 @@
 ## About Me
 
 * 💻 Data Engineer<br/>
+* 📚 Master's Student in Marketing Digital e Big Data
 * 📊 Postgraduate Specialization in Data Analysis with BI and Big Data<br/>
 * 🤖 Postgraduate Specialization in Artificial Intelligence<br/>
 * 🎓 Bachelor's Degree in Systems Analysis and Development<br/>
